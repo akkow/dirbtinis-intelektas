@@ -1,1 +1,2 @@
 # dirbtinis-intelektas
+pratybos
